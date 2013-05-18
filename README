@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4586
+
+The colorscheme switcher plug-in for the Vim text editor makes it easy to quickly switch between colorschemes. It defines commands and mappings to switch to the next and previous color schemes:
+
+ :NextColorScheme command and <F8> mapping
+ :PrevColorScheme command and <Shift-F8> mapping
+
+For more information about the plug-in please refer to its homepage or the project page on GitHub: 
+
+ http://peterodding.com/code/vim/colorscheme-switcher/ 
+ http://github.com/xolox/vim-colorscheme-switcher
+
+If you have questions, bug reports, suggestions, etc. the author can be contacted at peter@peterodding.com. If you like this plug-in please vote for it below!
